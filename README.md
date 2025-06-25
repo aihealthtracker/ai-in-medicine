@@ -31,7 +31,7 @@
 
 - [Duke AI Health](https://aihealth.duke.edu) – Durham, NC – Unites medicine, engineering, and data science to solve urgent challenges in clinical care.
 
-- [UTHealth McWilliams School of Biomedical Informatics](https://sbmi.uth.edu) – Houston, TX – Largest informatics school in the U.S., focused on AI, secure data, and translational impact.
+- [UTHealth McWilliams School of Biomedical Informatics](https://sbmi.uth.edu/aigi/)) – Houston, TX – Small program, mission states they are focused on AI but all their grants are focused on genetics. 
 
 - [Vanderbilt DBMI](https://www.vumc.org/dbmi) – Nashville, TN – National leader in AI safety and learning health systems with strong clinical integration.
 
